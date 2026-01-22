@@ -1,0 +1,20 @@
+# Requirements for the data analysis and visualization project
+pandas>=2.1.0
+# NumPy for numerical computations
+numpy<2.0.0
+# Matplotlib for plotting graphs
+matplotlib>=3.7.0
+# Seaborn for statistical data visualization
+seaborn>=0.12.0
+# Librosa for audio and music analysis
+librosa>=0.10.0
+# IPython kernel for Jupyter notebooks
+ipykernel
+# TensorFlow for machine learning and deep learning
+tensorflow==2.10.0
+# Scikit-learn for machine learning utilities
+scikit-learn>=1.3.0
+# SoundFile for reading and writing sound files
+soundfile>=0.12.1
+# Tqdm for progress bars
+tqdm>=4.66.0
